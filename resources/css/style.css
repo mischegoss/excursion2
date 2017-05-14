@@ -1,2 +1,27 @@
-p {text-align: center;
+* {
+    background-color: black;
+    font-family: veranda;
+    text-align: center;
+}
+h1 { color:white;
+  font-weight: normal;
+  font-size: 50px;
+
+}
+p.soon {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+h2 {color: white;
+  font-weight: 300;
+  font-size: 30 px;
+
+}
+p.gray {
+  color: gray;
+  font-size: 27 px;
+}
+p.footer {color: gray;
+text-align: right;
 }
